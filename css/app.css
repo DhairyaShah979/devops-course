@@ -17,6 +17,10 @@ html {
 *::after {
     box-sizing: inherit;
 }
+body {
+    background-color: #00cae4;
+}
+
 
 body {
     background-color: #fafbfc;
